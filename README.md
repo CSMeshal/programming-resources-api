@@ -16,7 +16,7 @@ The user requests resources to learn programming or programming challenges sites
 
 1-Runtime Environment: Node.js
 
-2-Language: JavaScript
+2-Language: TypeScript
 
 3-Web Server: Fastify
 
