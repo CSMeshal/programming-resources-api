@@ -20,6 +20,6 @@ The user requests resources to learn programming or programming challenges sites
 
 3-Web Server: Fastify
 
-4-ORM: Prisma
+4-ORM: mongoose 
 
-5-DB: Postgres
+5-DB: mongodb
