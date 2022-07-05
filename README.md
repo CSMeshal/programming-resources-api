@@ -1,16 +1,31 @@
+
+
 # programming-resources-api
 The user requests resources to learn programming or programming challenges sites, and the server responds
 
 ## Features
 1-Login 
 
-2-Update sources
+2-The ability to register on the site
+ 
+3-A blog containing resources to learn programming
 
-3-View all sources
+3-Video sources
 
-4-searching for sources
+4-Articles sources
 
-5-Add sources
+5-Book sources
+
+
+6- Ability to view all sources
+
+7-The ability to choose sources
+
+8-The ability to switch between sources
+
+9-If he is registered on the site, he can add a source
+
+10-Comment on the sources
 
 ## Stack
 
@@ -18,9 +33,9 @@ The user requests resources to learn programming or programming challenges sites
 
 2-Language: TypeScript
 
-3-Web Server: Fastify
+3-Web Server: Fastiyfi
 
-4-ORM: mongoose 
+4-ORM: Prisma 
 
 5-DB: mongodb
 
