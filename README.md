@@ -1,31 +1,37 @@
 
 
 # programming-resources-api
+https://meshalapi.herokuapp.com/
 The user requests resources to learn programming or programming challenges sites, and the server responds
+
 
 ## Features
 1-Login 
 
-2-The ability to register on the site
- 
-3-A blog containing resources to learn programming
+2-View all available resources
 
-3-Video sources
+3-Choose sources
 
-4-Articles sources
+4-Search for sources by name
 
-5-Book sources
+5-Add sources (book, article, exercises or projects)
+
+6-Delete sources if authorized
+
+7-Book sources
+
+8-Articles sources
+
+9-exercise resources
+
+10-Project Resources
+
+11-Comment on the sources
+
+12-JWT
 
 
-6- Ability to view all sources
 
-7-The ability to choose sources
-
-8-The ability to switch between sources
-
-9-If he is registered on the site, he can add a source
-
-10-Comment on the sources
 
 ## Stack
 
@@ -38,7 +44,3 @@ The user requests resources to learn programming or programming challenges sites
 4-ORM: Prisma 
 
 5-DB: mongodb
-
-
-
-
